@@ -17,7 +17,7 @@ A real-time weather dashboard that shows live weather for any city in the world,
 - **TanStack Start** — file-based routing and server-side rendering; each page (Dashboard, Forecast, Cities) is its own route file
 - **TanStack Query** — handles all API calls with automatic caching, background refetching and retry logic
 - **Tailwind CSS v4** — utility-first styling with custom design tokens for the glassmorphism night theme
-- **Open-Meteo REST API** — free weather and geocoding API, no API key required
+- **Open-Meteo REST API** — free weather and geocoding API
 - **Vite** — fast dev server and build tool
 - **Lucide React** — icon library for UI icons
 - **Vitest** — unit tests for the weather data parsing logic
